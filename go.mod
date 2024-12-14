@@ -1,4 +1,4 @@
-module protos
+module github.com/tok1e1/protossso
 
 go 1.23.2
 
